@@ -1,7 +1,7 @@
 autoUpdate:
   enabled: false
   schedule: ""
-bootConfigURL: https://github.com/DjoMajdi/environment-ratgold-dev
+bootConfigURL: https://github.com/DjoMajdi/environment-gke_heptasys-tunisie_europe-north1-a_ratgold-dev.git
 cluster:
   gitKind: github
   gitName: github
@@ -65,5 +65,5 @@ vault: {}
 velero: {}
 versionStream:
   ref: master
-  url: https://github.com/DjoMajdi/environment-ratgold-dev.git
+  url: https://github.com/DjoMajdi/environment-gke_heptasys-tunisie_europe-north1-a_ratgold-dev.git
 webhook: prow
