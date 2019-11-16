@@ -1,7 +1,7 @@
 autoUpdate:
   enabled: false
   schedule: ""
-bootConfigURL: https://github.com/DjoMajdi/environment-yakshimmer-dev
+bootConfigURL: https://github.com/DjoMajdi/environment-ratgold-dev
 cluster:
   gitKind: github
   gitName: github
@@ -65,5 +65,5 @@ vault: {}
 velero: {}
 versionStream:
   ref: master
-  url: https://github.com/DjoMajdi/environment-yakshimmer-dev 
+  url: https://github.com/jenkins-x/jenkins-x-versions.git
 webhook: prow
