@@ -65,5 +65,5 @@ vault: {}
 velero: {}
 versionStream:
   ref: master
-  url: https://github.com/jenkins-x/jenkins-x-versions.git
+  url: https://github.com/DjoMajdi/environment-yakshimmer-dev 
 webhook: prow
